@@ -1,2 +1,3 @@
 # Hello-world
-First project
+First project.
+I want make a diplom here.
